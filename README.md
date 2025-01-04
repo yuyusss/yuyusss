@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=yuyusss&fontSize=70&animation=twinkling) 
-
+/*
 <h3 align="center">🛠 Tech Stack 🛠</h3> 
 
 <!-- ### 🌐 Browsers
@@ -48,4 +48,4 @@
 ### 🥅 Other
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 </div>
-
+*/
